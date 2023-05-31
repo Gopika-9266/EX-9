@@ -46,6 +46,13 @@ while True:
 
 # OUTPUT :
 
+CLIENT:
+
+![chat using tcpclient](https://github.com/Gopika-9266/EX-9/assets/122762773/9b2c1924-088a-4f55-8107-2462169b0098)
+
+SERVER:
+
+![chat using tcpserver](https://github.com/Gopika-9266/EX-9/assets/122762773/21cb66a8-3b71-4583-ac67-7cd7b743d866)
 
 
 # RESULT :
